@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.scheduler_default_event .scheduler_default_event_inner,
+.queue_default_event .queue_default_event_inner
+{
+  background: #6aa84f;
+  border: 1px solid #6aa84f;
+  color: #fff;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+
+
+.scheduler_default_shadow .scheduler_default_shadow_inner {
+  border-radius: 20px;
+}
